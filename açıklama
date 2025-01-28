@@ -1,0 +1,20 @@
+
+url => https://www.google.com
+https, http => protokolu belirler, http protokolu guvenli degildir.
+               Yani http protolu üzerindeki bilgilerin şifreli vaziyette 
+               gidip gelmesini sağlayan bir protokoldur
+
+www => World Wide Web
+google.com => Domain ve uzantisi. Yani google şirket ismi iken com company kelimeinin kisaltilmisidir.
+
+www.turkiye.gov.tr => gov(govermant) yani devlet oldugunu belirtir. tr ülke ile ilgilidir.
+https://ticaret.edu.tr => edu (education) yani sitenin bir egitim sitesi oldugu bilgilini verir
+
+https://www.hayatadestek.org => org (organization)  genelde kar amaci gutmeyen organizasyonlar icin kullanilir
+
+
+
+Browser uzerindeki Objeler 
+
+1-  Bom => browser object model her acilan yeni sekmeyi temsil eder
+    Her sekmenin yada pencerenin bir history'si vardir.
