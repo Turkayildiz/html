@@ -1,0 +1,18 @@
+Unutulmamalidir ki bir html dosyayi icerisinde 
+herzaman birden fazla html elementi olur.
+
+Burada sorun ayni html elementleri icierisnde bazilarini 
+özellistirmek istersem 1. yol class kullanimidir
+tanimlamasi . operatoru ile baslar 
+örnek  
+.farliParagraf{
+    /*.... 
+    Gerekli Kodlar
+    */
+}
+
+
+2. Yol 
+Html elementlerin birer Id vermek . Her element DOM icerisinde
+(Document Object Model) icerisinde birbirinden ayrilmasi icin 
+Id ile benzersiz bir tanimlamam yapilabilir.
